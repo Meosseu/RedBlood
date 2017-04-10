@@ -2,25 +2,14 @@
     {
         "author" : "Meos",
         "name" : "GreyBlood",
-        "keyWords" : "Gris,Blanc",
-        "version" : "1.1.1",
+        "keyWords" : "Noir,Blanc",
+        "version" : "1.1.2",
         "dofusVersion" : "2.41",
-        "description" : "Theme noir blanc et gris,     Pour nAiO = 131312, 131312, 959595",
+        "description" : "Theme noir et blanc,     Pour nAiO = 131312, 131312, 959595",
         "url" : "https://github.com/Meosseu/RedBlood/blob/master/GreyBlood.zip?raw=true",
         "previewUrl" : "https://raw.githubusercontent.com/Meosseu/RedBlood/master/GreyBlood.png",
         "creationDate" : "06/12/2016",
-        "modificationDate" : "01/04/2016"
+        "modificationDate" : "10/04/2016"
     },
-    {
-        "author" : "Meos",
-        "name" : "GreyBlood 2.40",
-        "keyWords" : "Rouge,sang",
-        "version" : "1.1.0",
-        "dofusVersion" : "2.40",
-        "description" : "Theme noir blanc et gris,     Pour nAiO = 131312, 131312, 959595",
-        "url" : "https://github.com/Meosseu/RedBlood/raw/master/GreyBlood%202.40.zip?raw=true",
-        "previewUrl" : "https://raw.githubusercontent.com/Meosseu/RedBlood/master/GreyBlood.png",
-        "creationDate" : "06/12/2016",
-        "modificationDate" : "04/03/2016"
-    }
+
 ]
