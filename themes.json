@@ -11,16 +11,4 @@
         "creationDate" : "06/12/2016",
         "modificationDate" : "16/04/2016"
     },
-    {
-        "author" : "Meos",
-        "name" : "GreyBlood eddy",
-        "keyWords" : "Noir,Blanc",
-        "version" : "1.1.4",
-        "dofusVersion" : "2.41",
-        "description" : "Theme noir et blanc,     Pour nAiO = 131312, 131312, 959595",
-        "url" : "https://github.com/Meosseu/RedBlood/blob/master/GreyBlood2.zip?raw=true",
-        "previewUrl" : "https://raw.githubusercontent.com/Meosseu/RedBlood/master/GreyBlood.png",
-        "creationDate" : "06/12/2016",
-        "modificationDate" : "24/05/2016"
-    },
 ]
